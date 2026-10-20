@@ -61,7 +61,11 @@ I'm a **Data Analyst** based in Kerala, India. I turn large, messy technical dat
 | 👁️ **Retinal Blood Vessel Segmentation** | U-Net segmentation plus CNN disease classifier, trained on three combined datasets (DRIVE, FIVES, hospital data). Deployed on **NVIDIA Jetson Nano** for low-power clinical inference. | Python, TensorFlow/Keras, OpenCV |
 | 📊 **Global AI Content Impact Dashboard ** | An interactive 5-page Power BI dashboard analysing how AI adoption relates to trust, jobs, revenue and content volume across 10 countries and 10 industries from 2020 to 2025. | Power BI Desktop, Power Query (M), DAX |
 
-> 🔗  `[View repo](https://github.com/rinda731/your-repo-name)`
+| Project | What it does | Tech | Link |
+|---|---|---|---|
+| 🧪 [**Hybrid Nanofluid Density Prediction**](https://github.com/rinda731/nanofluid-density-prediction) | EDA and model comparison to predict fluid density. XGBoost, R² = 0.997, with a Gradio app. | Python, XGBoost, Gradio | [![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/rinda731/nanofluid-density-prediction) |
+| 👁️ [**Retinal Blood Vessel Segmentation**](https://github.com/rinda731/retinal-vessel-segmentation) | U-Net segmentation plus CNN classifier, deployed on Jetson Nano. | TensorFlow/Keras, OpenCV | [![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/rinda731/retinal-vessel-segmentation) |
+| 📊 [**Excel Consolidation Tool**](https://github.com/rinda731/excel-consolidation-tool) | Automates merging and cleaning of daily technical data sheets. | Python, Pandas, Tkinter | [![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/rinda731/excel-consolidation-tool) |
 
 ---
 
