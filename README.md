@@ -57,9 +57,10 @@ I'm a **Data Analyst** based in Kerala, India. I turn large, messy technical dat
 
 | Project | What it does | Tech | Link |
 |---|---|---|---|
+| 📊 **Global AI Content Impact Dashboard ** | An interactive 5-page Power BI dashboard analysing how AI adoption relates to trust, jobs, revenue and content volume across 10 countries and 10 industries from 2020 to 2025. | Power BI Desktop, Power Query (M), DAX | [View repo](https://github.com/rinda731/power-bi-global-ai-content-impact.git)
 | 🧪 **Hybrid Nanofluid Density Prediction** | EDA and model comparison to predict fluid density from temperature and particle ratio. Best model: **XGBoost, R² = 0.997**. Includes a Gradio app for real-time predictions. | Python, XGBoost, Scikit-learn, Gradio | [View repo](https://github.com/rinda731/Hybrid-Nano-Fluid-Density-Prediction.git)
 | 👁️ **Retinal Blood Vessel Segmentation** | U-Net segmentation plus CNN disease classifier, trained on three combined datasets (DRIVE, FIVES, hospital data). Deployed on **NVIDIA Jetson Nano** for low-power clinical inference. | Python, TensorFlow/Keras, OpenCV | [View repo](https://github.com/rinda731/Retinal-Blood-Vessel-Segmentation-and-Prediction.git)
-| 📊 **Global AI Content Impact Dashboard ** | An interactive 5-page Power BI dashboard analysing how AI adoption relates to trust, jobs, revenue and content volume across 10 countries and 10 industries from 2020 to 2025. | Power BI Desktop, Power Query (M), DAX | [View repo](https://github.com/rinda731/power-bi-global-ai-content-impact.git)
+
 
 
 
